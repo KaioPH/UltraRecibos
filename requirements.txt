@@ -1,0 +1,7 @@
+# Dependências do Ultra Recibos (testado com Python 3.12; build original em 3.14)
+customtkinter>=5.2.2
+reportlab>=4.0
+pillow>=10.0
+pyinstaller>=6.0
+# Somente para os testes automatizados (leitura do texto dos PDFs)
+pypdf>=4.0

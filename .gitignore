@@ -1,0 +1,17 @@
+dados/
+_historico_versoes/
+build/
+dist/
+instalador/Output/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+*.pdf
+*.exe
+*.zip
+.venv/
+
+# Dados reais da empresa e dos consultores (ficam só neste computador)
+dados_locais.py
