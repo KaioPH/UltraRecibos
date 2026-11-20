@@ -30,6 +30,25 @@ Python · CustomTkinter · ReportLab · SQLite · PyInstaller · Inno Setup
 - Cadastro de consultores, planos e formas de pagamento
 - Tema claro e escuro
 
+## Uso de inteligência artificial
+
+Projeto idealizado e desenvolvido por Kaio Phyllipe Rodrigues para uso real na
+Ultra Academia. Ferramentas de inteligência artificial, principalmente o
+**Claude** (Anthropic), foram usadas como apoio para evoluir e melhorar o
+projeto:
+
+- revisão do código e correção de erros;
+- melhorias na interface, nas validações e na segurança dos dados;
+- criação dos testes automatizados;
+- documentação do código: comentários (`#`) explicando cada parte, como os
+  blocos que identificam as seções do `main.py` (Aplicativo, Inicialização,
+  Cabeçalho, Formulário...), para facilitar a manutenção e o entendimento de
+  tudo o que foi feito;
+- documentação do projeto (este README e o `CHANGELOG.md`).
+
+As mudanças propostas foram analisadas e aprovadas por mim antes de entrarem
+no programa.
+
 ## Executar pelo Python (desenvolvimento)
 
 ```bat
